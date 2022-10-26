@@ -1,0 +1,11 @@
+{
+    "names": ["Lexi"],
+    "type": "female",
+    "presentation": {
+        "masc": 0.0,
+        "fem": 10.0,
+        "andro": 0.0,
+        "none": 0.0
+    },
+    "pronouns": ["she", "her", "hers"]
+}
